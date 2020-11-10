@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am Vishal Katti, Business Analytics Advisor, OE-SSHE Data Analytics Group based out of Bangalore, India. I am a father to a hyperactive 2 year old daugther and perpetually exhausted due to the WFH situation due to this global pandemic. While I have been an active user of R language and recently started using Python, I am completely new to Github and version control.
+
+🔭 I’m currently working on a few automations to help OE-SSHE DAG eliminate some manually created reports and stewardships.
+
+🌱 I’m currently learning how to use Python more effectively and sharpening my skill in R and building Shiny Apps
+
+🤔 I’m looking for help with deploying my R/Shiny and Python apps in production
+
+
+
 <!--
 **vikatti/vikatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
