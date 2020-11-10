@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Vishal Katti, Business Analytics Advisor, OE-SSHE Data Analytics Group based out of Bangalore, India. I am a father to a hyperactive 2 year old daughter and perpetually exhausted due to the WFH situation due to this global pandemic. While I have been an active user of R language and recently started using Python, I am completely new to Github and version control.
+I am Vishal Katti, Business Analytics Advisor, OE-SSHE Data Analytics Group based out of Bangalore, India. I am a father to a hyperactive 2 year old daughter and perpetually exhausted due to the WFH situation in this global pandemic. While I have been an active user of R language and recently started using Python, I am completely new to Github and version control.
 
 🔭 I’m currently working on a few automations to help OE-SSHE DAG eliminate some manually created reports and stewardship processes. I am trying to standardise and improve the entire report delivery process.
 
