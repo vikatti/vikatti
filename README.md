@@ -8,6 +8,8 @@ I am Vishal Katti, Business Analytics Advisor, OE-SSHE Data Analytics Group base
 
 🤔 I’m looking for help with deploying my R/Shiny and Python apps in production.
 
+👯 I’m looking to collaborate on automating reports and creating dashboards using R.
+
 
 
 <!--
