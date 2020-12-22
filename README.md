@@ -14,7 +14,7 @@ I am Vishal Katti, Business Analytics Advisor, OE-SSHE Data Analytics Group base
 
 😄 I'm am more than willing to teach R to anyone who wishes to learn.
 
-⚡ I am an Instrumentation & Control Engineer by education but always inclided towards  Analysis and Report Optimization.
+⚡ I am an Instrumentation & Control Engineer by education but always inclined towards  Analysis and Report Optimization.
 
 <!--
 **vikatti/vikatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
