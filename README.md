@@ -4,13 +4,17 @@ I am Vishal Katti, Business Analytics Advisor, OE-SSHE Data Analytics Group base
 
 🔭 I’m currently working on a few automations to help OE-SSHE DAG eliminate some manually created reports and stewardship processes. I am trying to standardise and improve the entire report delivery process.
 
+💬 Ask me about how to use R to create reproducible reports and HTML dashboards
+
 🌱 I’m currently learning how to use Python more effectively and sharpening my skill in R and building Shiny Apps
 
 🤔 I’m looking for help with deploying my R/Shiny and Python apps in production.
 
 👯 I’m looking to collaborate on automating reports and creating dashboards using R.
 
+😄 I'm am more than willing to teach R to anyone who wishes to learn.
 
+⚡ I am an Instrumentation & Control Engineer by education but always inclided towards  Analysis and Report Optimization.
 
 <!--
 **vikatti/vikatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
