@@ -12,7 +12,7 @@ I am Vishal Katti, Business Analytics Advisor, OE-SSHE Data Analytics Group base
 
 👯 I’m looking to collaborate on automating reports and creating dashboards using R.
 
-😄 I'm am more than willing to teach R to anyone who wishes to learn.
+😄 I'm more than willing to teach R to anyone who wishes to learn.
 
 ⚡ I am an Instrumentation & Control Engineer by education but always inclined towards  Analysis and Report Optimization.
 
